@@ -34,6 +34,10 @@ El sistema utiliza **MTCNN** para la detección del rostro. Una vez clasificada 
 * **Surprise:** Efecto visual de enfoque y partículas blancas de "shock".
 * **Neutral:** Aplicación de un filtro bilateral para suavizar la piel del rostro sin alterar la geometría.
 
+A continuación se muestra una pequeña demo de la ejecución:
+
+
+
 ---
 
 ## Tarea 2: Filtro Geométrico con MediaPipe
@@ -52,8 +56,8 @@ El algoritmo implementado realiza una deformación selectiva de las facciones de
 4.  **Composición:** Las partes agrandadas se superponen nuevamente sobre el lienzo.
 
 El sistema permite alternar entre dos visualizaciones:
-* **Filtro 2 (Aislado):** Muestra únicamente los rasgos agrandados sobre un fondo negro.
-* **Filtro 3 (Integrado):** Superpone los rasgos transformados sobre el rostro original del usuario en tiempo real.
+* **Filtro 1 (Aislado):** Muestra únicamente los rasgos agrandados sobre un fondo negro.
+* **Filtro 2 (Integrado):** Superpone los rasgos transformados sobre el rostro original del usuario en tiempo real.
 
 ---
 
