@@ -34,7 +34,13 @@ El sistema utiliza **MTCNN** para la detección del rostro. Una vez clasificada 
 * **Surprise:** Efecto visual de enfoque y partículas blancas de "shock".
 * **Neutral:** Aplicación de un filtro bilateral para suavizar la piel del rostro sin alterar la geometría.
 
+### 3. Resultados
 A continuación se muestra una pequeña demo de la ejecución:
+
+<video src="emociones.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+*[Si el video no se reproduce, puede descargarlo o visualizarlo directamente aquí](emociones.mp4)*
 
 
 
