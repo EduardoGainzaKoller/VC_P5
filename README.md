@@ -6,7 +6,7 @@
 
 ## Descripción General
 
-Este proyecto implementa un sistema de visión artificial dividido en dos módulos principales de procesamiento facial en tiempo real. El objetivo es crear dos 
+Este proyecto implementa un sistema de visión artificial dividido en dos módulos principales de procesamiento facial en tiempo real. El objetivo es desarrollar dos prototipos que provoquen reacciones a partir de la información extraída del rostro. En este proyecto se presenta un filtro que reacciona en base a la expresión facial del usuario detectando las emociones (felicidad, miedo, enfado, sorpresa y tristeza) y un filtro creado en base a extraer zonas concretas del rostro y modificándolas.
 
 El sistema ha sido desarrollado en Python y se ejecuta sobre flujos de vídeo en directo (Webcam), integrando detección facial, clasificación mediante Redes Neuronales Convolucionales (CNN) y realidad aumentada simple.
 
