@@ -26,9 +26,7 @@ Se ha diseñado y entrenado una Red Neuronal Convolucional utilizando la librer�
 * **Salida:** Capa `Dense` con activación *Softmax* para 5 clases: *Angry, Fear, Happy, Sad, Surprise*.
 
 Los resultados del entreno del modelo se muestran a continuación:
-==================================================
-Reporte de Clasificación en el Conjunto de Prueba
-==================================================
+
               precision    recall  f1-score   support
 
        Angry       0.56      0.67      0.61      1016
@@ -38,10 +36,13 @@ Reporte de Clasificación en el Conjunto de Prueba
     Surprise       0.74      0.77      0.76       824
 
     accuracy                           0.69      5915
-   macro avg       0.66      0.66      0.66      5915
-weighted avg       0.69      0.69      0.69      5915
 
+  Matriz de confusión sin normalizar
 
+<img width="897" height="790" alt="image" src="https://github.com/user-attachments/assets/51bddbc6-1a7e-44ea-b1b7-c35909a4e370" />
+
+Matriz de confusión normalizada
+<img width="884" height="790" alt="image" src="https://github.com/user-attachments/assets/e3508b91-aa38-4a51-91fd-1c37bf5b86b2" />
 
 ### 2. Aplicación de Filtros por Emoción
 El sistema utiliza **MTCNN** para la detección del rostro. Una vez clasificada la emoción, se aplican efectos visuales mediante la función personalizada `overlay_image_alpha` y sistemas de partículas:
