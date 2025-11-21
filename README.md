@@ -6,7 +6,7 @@
 
 ## Descripción General
 
-Este proyecto implementa un sistema de visión artificial dividido en dos módulos principales de procesamiento facial en tiempo real. El objetivo es explorar tanto las técnicas de *Deep Learning* para la clasificación de estados afectivos como el uso de geometría computacional para la manipulación de imágenes basada en puntos de referencia (*landmarks*).
+Este proyecto implementa un sistema de visión artificial dividido en dos módulos principales de procesamiento facial en tiempo real. El objetivo es crear dos 
 
 El sistema ha sido desarrollado en Python y se ejecuta sobre flujos de vídeo en directo (Webcam), integrando detección facial, clasificación mediante Redes Neuronales Convolucionales (CNN) y realidad aumentada simple.
 
