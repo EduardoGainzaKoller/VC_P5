@@ -64,6 +64,13 @@ El sistema permite alternar entre dos visualizaciones:
 * **Filtro 1 (Aislado):** Muestra únicamente los rasgos agrandados sobre un fondo negro.
 * **Filtro 2 (Integrado):** Superpone los rasgos transformados sobre el rostro original del usuario en tiempo real.
 
+### 3. Resultados
+A continuación se muestra una pequeña demo de la ejecución:
+
+![Demo de detección de emociones](filtro_simple.gif)
+
+*[Si el video no se reproduce, puede descargarlo o visualizarlo directamente aquí](emociones.mp4)*
+
 ---
 
 ## Requisitos e Instalación
