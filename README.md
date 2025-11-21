@@ -37,8 +37,7 @@ El sistema utiliza **MTCNN** para la detección del rostro. Una vez clasificada 
 ### 3. Resultados
 A continuación se muestra una pequeña demo de la ejecución:
 
-<video src="emociones.mp4" controls="controls" style="max-width: 100%;">
-</video>
+![Demo de detección de emociones](emociones.gif)
 
 *[Si el video no se reproduce, puede descargarlo o visualizarlo directamente aquí](emociones.mp4)*
 
