@@ -69,7 +69,7 @@ A continuación se muestra una pequeña demo de la ejecución:
 
 ![Demo de detección de emociones](filtro_simple.gif)
 
-*[Si el video no se reproduce, puede descargarlo o visualizarlo directamente aquí](emociones.mp4)*
+*[Si el video no se reproduce, puede descargarlo o visualizarlo directamente aquí](filtro_demo.mp4)*
 
 ---
 
